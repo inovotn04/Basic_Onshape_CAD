@@ -2,4 +2,4 @@
 ## Cute little notebook for my Onshape stuff (so cute!!!)
 Part 1: Base
 
-[base](images/yes.jpg)
+![base](images/yes.jpg)
