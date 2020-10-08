@@ -34,3 +34,15 @@ Making the mount for the caster, pretty much the same as the base, but smaller.
 
 ### Reflection
 I got confused because I was spacing some things from the sides of the circle and not the center, I had a small mental breakdown and then recovered and realized I was spacing from the sides of the circles and that's why the measurements were wrong.
+
+
+## Fork:
+
+
+### Description
+Making the fork for the caster, it looks kinda like an electrical plug, that's cool.
+
+### Evidence
+[Base](https://cvilleschools.onshape.com/documents/b7f59dcac0633dd6a51cf67c/w/f829e1386e8839178e00dad1/e/807f7dd93d44c20e9203e943)
+### Image
+<img src="images/Fork.png" alt="Fork" width="300" height="150">
