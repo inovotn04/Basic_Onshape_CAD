@@ -45,4 +45,4 @@ Making the fork for the caster, it looks kinda like an electrical plug, that's c
 ### Evidence
 [Base](https://cvilleschools.onshape.com/documents/b7f59dcac0633dd6a51cf67c/w/f829e1386e8839178e00dad1/e/807f7dd93d44c20e9203e943)
 ### Image
-<img src="images/Fork.png" alt="Fork" width="250" height="400">
+<img src="images/Fork.png" alt="Fork" width="300" height="400">
