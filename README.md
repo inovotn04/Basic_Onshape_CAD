@@ -46,3 +46,6 @@ Making the fork for the caster, it looks kinda like an electrical plug, that's c
 [Base](https://cvilleschools.onshape.com/documents/b7f59dcac0633dd6a51cf67c/w/f829e1386e8839178e00dad1/e/807f7dd93d44c20e9203e943)
 ### Image
 <img src="images/Fork.png" alt="Fork" width="300" height="300">
+
+### Reflection
+If I'm to be honest, I really had no trouble with it, but my friend had trouble mirroring so just make sure that when you're mirroring in Onshape it's set to feature mirror, because the default is part mirror and you don't want that.
