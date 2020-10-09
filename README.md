@@ -72,7 +72,7 @@ The wheel for the caster, which the tire will fit onto, spins around a bunch, lo
 ### Evidence
 [Wheel](https://cvilleschools.onshape.com/documents/b7f59dcac0633dd6a51cf67c/w/f829e1386e8839178e00dad1/e/246bc42fea99520cd7830f47)
 ### Image
-<img src="images/Tire.png" alt="Tire" width="300" height="300">
+<img src="images/Wheel.png" alt="Tire" width="300" height="300">
 
 ### Reflection
 Really had no trouble with this one honestly, just remember to make the arc centered on the origin when you're doing the sketch for the spokes and you'll be fine.
