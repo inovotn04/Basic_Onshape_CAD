@@ -61,3 +61,6 @@ Making the tire to eventually fit on the wheel of the caster.
 [Base](https://cvilleschools.onshape.com/documents/b7f59dcac0633dd6a51cf67c/w/f829e1386e8839178e00dad1/e/e347ddfb4279ae80f613a92e)
 ### Image
 <img src="images/Tire.png" alt="Tire" width="300" height="300">
+
+### Reflection 
+Had a bit of trouble at the beginning figuring out those awful dimensions, then I realized there was a whole guide on how to do it on the canvas assignment! So the take away for this one is to always read through the asssignment fully, first.
