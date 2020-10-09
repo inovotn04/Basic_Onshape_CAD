@@ -43,7 +43,7 @@ I got confused because I was spacing some things from the sides of the circle an
 Making the fork for the caster, it looks kinda like an electrical plug, that's cool.
 
 ### Evidence
-[Base](https://cvilleschools.onshape.com/documents/b7f59dcac0633dd6a51cf67c/w/f829e1386e8839178e00dad1/e/807f7dd93d44c20e9203e943)
+[Fork](https://cvilleschools.onshape.com/documents/b7f59dcac0633dd6a51cf67c/w/f829e1386e8839178e00dad1/e/807f7dd93d44c20e9203e943)
 ### Image
 <img src="images/Fork.png" alt="Fork" width="300" height="300">
 
@@ -58,9 +58,21 @@ If I'm to be honest, I really had no trouble with it, but my friend had trouble 
 Making the tire to eventually fit on the wheel of the caster.
 
 ### Evidence
-[Base](https://cvilleschools.onshape.com/documents/b7f59dcac0633dd6a51cf67c/w/f829e1386e8839178e00dad1/e/e347ddfb4279ae80f613a92e)
+[Tire](https://cvilleschools.onshape.com/documents/b7f59dcac0633dd6a51cf67c/w/f829e1386e8839178e00dad1/e/e347ddfb4279ae80f613a92e)
 ### Image
 <img src="images/Tire.png" alt="Tire" width="300" height="300">
 
 ### Reflection 
 Had a bit of trouble at the beginning figuring out those awful dimensions, then I realized there was a whole guide on how to do it on the canvas assignment! So the take away for this one is to always read through the asssignment fully, first.
+
+
+## Wheel
+The wheel for the caster, which the tire will fit onto, spins around a bunch, looks cool, does wheel things.
+
+### Evidence
+[Wheel](https://cvilleschools.onshape.com/documents/b7f59dcac0633dd6a51cf67c/w/f829e1386e8839178e00dad1/e/246bc42fea99520cd7830f47)
+### Image
+<img src="images/Tire.png" alt="Tire" width="300" height="300">
+
+### Reflection
+Really had no trouble with this one honestly, just remember to make the arc centered on the origin when you're doing the sketch for the spokes and you'll be fine.
