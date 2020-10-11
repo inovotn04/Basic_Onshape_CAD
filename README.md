@@ -67,12 +67,30 @@ Had a bit of trouble at the beginning figuring out those awful dimensions, then 
 
 
 ## Wheel
+
+
+### Description
 The wheel for the caster, which the tire will fit onto, spins around a bunch, looks cool, does wheel things.
 
 ### Evidence
 [Wheel](https://cvilleschools.onshape.com/documents/b7f59dcac0633dd6a51cf67c/w/f829e1386e8839178e00dad1/e/246bc42fea99520cd7830f47)
 ### Image
-<img src="images/Wheel.png" alt="Tire" width="300" height="300">
+<img src="images/Wheel.png" alt="Wheel" width="300" height="300">
 
 ### Reflection
 Really had no trouble with this one honestly, just remember to make the arc centered on the origin when you're doing the sketch for the spokes and you'll be fine.
+
+
+## AxleCollarBearings
+
+
+### Description
+Making the axle collar and bearings, which are smaller parts to go into the caster. Axle and collar were made on the same part.
+
+### Evidence
+[AxleCollarBearings](https://cvilleschools.onshape.com/documents/b7f59dcac0633dd6a51cf67c/w/f829e1386e8839178e00dad1/e/fcb90a46ce1ce57307eb54da)
+### Image
+<img src="images/Axle.png" alt="Axle" width="300" height="300">
+
+### Reflection
+There was a lot of mechanics that were used to make such small parts, but by now I had pretty much mastered everything that went into it so I had no trouble.
