@@ -8,6 +8,7 @@
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [SubAssembly](#SubAssembly)
 
 ## Base:
 
@@ -94,3 +95,18 @@ Making the axle collar and bearings, which are smaller parts to go into the cast
 
 ### Reflection
 There was a lot of mechanics that were used to make such small parts, but by now I had pretty much mastered everything that went into it so I had no trouble.
+
+
+## SubAssembly
+
+
+### Description
+The Sub Assembly of the wheel, axle, and bearings, second to last part of the caster, makes the final assembly a bit easier.
+
+### Evidence
+[SubAssembly](https://cvilleschools.onshape.com/documents/124740e220be5c0ce3c8b693/w/bbc667f1eb99c0fa8bf9aeaf/e/f99558b30e183c7e7270143e)
+### Image
+<img src="images/SubAssembly.png" alt="SubAssembly" width="300" height="300">
+
+### Reflection
+Overall, not too much trouble with this part, but making sure to get the mate connectors right is a bit tricky, make sure you have the part at a good angle to select the connector that you want, and solve the mate before confirming it just to make sure it looks alright.
