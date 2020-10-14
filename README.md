@@ -122,7 +122,7 @@ The final assembly! A lot going on here, but basically this is what tied all the
 ### Evidence
 [FinalAssembly](https://cvilleschools.onshape.com/documents/b7f59dcac0633dd6a51cf67c/w/f829e1386e8839178e00dad1/e/a28af72ba04ec2d6b8e8d8cd}
 ### Image
-<img src="images/Final.png" alt=FinalAssembly" width="500" height="500">
+<img src="images/Final.png" alt="Final Assembly" width="400" height="400">
 
 ### Reflection
 Didn't have too much trouble with this one, the actual mates between parts were fairly easy, but Onshape gets a little weird when it comes to putting in the bolts, they often end up upside down or something, I'd like to say I have a "trick" or something for getting it the right direction, but I really just moved my mouse around and on and off the hole until it was facing the right way, which took me quite a bit of time but it is what it is. Overall the caster was a fun mini project to learn Onshape, most of the time it kinda felt like I was watching an infomercial for Onshape though, especially when the guide was in the video, there was a lot of "Most CAD programs need you to (something minor) but Onshape allows you to (skip small step) with (complicated feature you need to learn)" I'm just messing around though, Onshape is really nice to work with, and the caster went well.
